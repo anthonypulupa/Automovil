@@ -1,4 +1,5 @@
-ec\edu\espoch\automovil1\Automovil\clase\TipoAutomovil.class
-ec\edu\espoch\automovil1\Automovil\clase\TipoColor.class
 ec\edu\espoch\automovil1\Automovil1.class
-ec\edu\espoch\automovil1\Automovil\clase\TipoCombustible.class
+ec\edu\espoch\automovil1\Automovil\clase\Automovil.class
+ec\edu\espoch\automovil1\Enum\TipoAutomovil.class
+ec\edu\espoch\automovil1\Enum\TipoColor.class
+ec\edu\espoch\automovil1\Enum\TipoCombustible.class
